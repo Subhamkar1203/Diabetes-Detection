@@ -235,13 +235,3 @@ This will start the development server and make the application accessible at "h
 
 If you want to deploy your application to a production environment, you can use a web server like Gunicorn or uWSGI to serve the application.
 It's worth noting that you can also use frameworks like Flask-CLI or Flask-Script to create more advanced command-line scripts for your application.
-
-## Authors
-
-- [Nilesh Parab](https://github.com/nileshparab42) (Project Lead) - [Website](https://nileshparab10.blogspot.com/)
-  
-
-## Acknowledgements
-
-- This project was inspired by the work of the [CodeWithHarry](https://www.youtube.com/@CodeWithHarry).
-- We also used resources and tools from the [GeeksforGeeks](https://www.geeksforgeeks.org/speech-recognition-in-python-using-google-speech-api/) to develop and test our project.
